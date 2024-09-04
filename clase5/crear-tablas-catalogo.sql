@@ -28,5 +28,4 @@ create table productos
     prdActivo boolean not null,
     foreign key ( idMarca ) references marcas ( idMarca ),
     foreign key ( idCategoria ) references categorias ( idCategoria )
-
 );
