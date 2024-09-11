@@ -5,6 +5,7 @@ con el motivo de que quede mejor en el reporte.
 Nota: No se cambia realmente el nombre de la columna
 sino que temporalmente cambia el enunciado para el reporte
 Implementamos un alias con la palabra reservada **AS**
+(se puede omitir)
 */
 
 SELECT prdNombre AS Producto,
